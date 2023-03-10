@@ -1,7 +1,10 @@
+import enums.Grade;
+
 import java.util.Objects;
 
 public class Student {
 
+    // Add id to Student class
     private int studentID;
     private String name;
     private int age;

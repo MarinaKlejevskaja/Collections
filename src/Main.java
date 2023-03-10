@@ -1,10 +1,9 @@
 public class Main {
     public static void main(String[] args) {
 //        Cars.run();
-//        System.out.println();
 //        Numbers.run();
-        Course.run();
+//        Course.run();
 //        Fruits.run();
-
+        GameConsole.run();
     }
 }
